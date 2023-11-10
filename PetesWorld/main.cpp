@@ -1,8 +1,8 @@
 // program to find countries in Pete's World
 // date November 2022
 // author Pete Lowe
-// add your name here
-//  Rebecca hollidge - c00300511
+// Stephen Arthur
+//  Rebecca Hollidge 
 // estimated time 120 minutes
 // actual time ??
 // version 1.0
