@@ -80,7 +80,30 @@ int main()
 		}
 	}
 
+	if (letter == 'c' || letter == 'C')
+	{
+		if (region == 1)
+		{
+			std::cout << "Canada, Chile, Colombia, Costa Rica" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "Croatia, Czech Republic" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "Cameroon, Cape Verde, Central African Republic, Chad, Democratic Republic of the Congo, Congo, Ivory Coast" << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "Cambodia, China, Christmas Island, Cocos Island, Cyrpus" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Cayman Islands, Cook Islands, Cuba" << std::endl;
+		}
 
+	}
 
 
 	if (letter == 'z' || letter == 'Z') // written by Pete
