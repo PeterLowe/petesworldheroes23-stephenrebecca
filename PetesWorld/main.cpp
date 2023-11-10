@@ -103,7 +103,8 @@ int main()
 			std::cout << "Cayman Islands, Cook Islands, Cuba" << std::endl;
 		}
 	}
-	if (letter == 'd' || letter == 'D')
+
+	if (letter == 'd' || letter == 'D') // Written by Stephen
 	{
 		if (region == 1)
 		{
@@ -127,11 +128,31 @@ int main()
 		}
 	}
 
+	if (letter == 'w' || letter == 'W') // wrote by rebecca 
 
+	{
+		if (region == 1)
+		{
+			std::cout << "There are no Ws in the americas" << std::endl;
+		}
+		if (region == 2)
+		{
+			std::cout << "There is no W's in europe" << std::endl;
+		}
+		if (region == 3)
+		{
+			std::cout << "Western SaharaNorthern " << std::endl;
+		}
+		if (region == 4)
+		{
+			std::cout << "There are no w's in aisa" << std::endl;
+		}
+		if (region == 5)
+		{
+			std::cout << "Wallis and Futuna Islands " << std::endl;
 
-
-
-
+		}
+	}
 
 	if (letter == 'y' || letter == 'Y') // wrote by rebecca 
 
